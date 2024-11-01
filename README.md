@@ -22,4 +22,4 @@
 - **Tailwind CSS**: Utility-first CSS framework for responsive design.
 - **React Router DOM**: Handles navigation and routing within the app.
 
-![GIF](car.gif)# car_rental-ts
+![GIF](car.gif)
